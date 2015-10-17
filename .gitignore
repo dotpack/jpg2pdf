@@ -1,0 +1,12 @@
+# system
+.idea
+.DS_Store
+Thumbs.db
+nbproject
+.nbinfo
+.project
+.strong-pm
+
+# project
+node_modules
+*.log
